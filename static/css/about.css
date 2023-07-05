@@ -1,0 +1,7 @@
+body{
+    -webkit-box-pack: center;
+}
+.about{
+    text-align: center;
+    text-underline-position: auto;
+}
